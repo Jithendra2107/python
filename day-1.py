@@ -1,3 +1,11 @@
+#Fuctions in Python
+def greet(name="world!"):
+    print(f"Hello, {name}")
+
+#greet()
+greet(input("Enter Your Name: "))
+
+
 # Practise On Strings
 """
 name = input("What is your name? ")
@@ -18,7 +26,7 @@ name = input("What is your name? ")
 print(f"Hello, {name} Welcome to World of Wizards")
 """
 
-# Practise on INTegers & Folat
+# Practise on INTegers & Float
 """
 print("Welcome to the World of Addition!!!!")
 x = int(input("Enter First Number: "))
@@ -48,14 +56,6 @@ Reminder = Divident % Divisor
 print(f"The reminder is {Reminder}")
 
 """
-
-
-def greet(name="world!"):
-    print(f"Hello, {name}")
-
-#greet()
-greet(input("Enter Your Name: "))
-
 
 """
 def add(a,b):
