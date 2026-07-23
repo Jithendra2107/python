@@ -1,2 +1,2 @@
 # python
-Repository to kick start your journey with Python
+This is my Python Repo, where i am pushing my practice while learning python.
