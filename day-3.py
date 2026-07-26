@@ -111,3 +111,22 @@ for student in roster:
     print(f"Name: {student["Name"]}, House: {student["House"]}, Patronus: {student["Patronus"]}")
 """
 
+"""
+n = 3
+m = 2
+
+for i in range(n):
+    for j in range(m):
+        print(" ", end = "")
+    for k in range(i+1):
+        print("#", end = "")
+    m -=1
+    print()
+"""
+
+x = int(input("Enter a Number: "))
+
+for i in range(1, x+1):
+    print(i , end =" ")
+
+print()
