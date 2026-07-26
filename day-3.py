@@ -110,3 +110,4 @@ for student in roster:
    # print('Name: '+student["Name"]+', '+'House: '+student["House"]+', '+'Patronus: '+ str(student["Patronus"]))
     print(f"Name: {student["Name"]}, House: {student["House"]}, Patronus: {student["Patronus"]}")
 """
+
